@@ -17,6 +17,17 @@
     'Hardhat',
     'Truffle',
     'RemixIDE',
+    'Pinata',
+    'Waffle',
+    'Moralis',
+    'Ganache',
+    'npm',
+    'typescript',
+    'JavaScript',
+    'NextJs',
+    'Yarn',
+    'Chainlink',
+    'ipfs',
     
 ]
 

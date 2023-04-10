@@ -8,7 +8,7 @@ export const achievementData = {
         {
             id : 1,
             title : 'Apprenticeship in Blockchain Development',
-            details :`Skills:DeFi,NFTMarketplace,web3,DApps,Hardhat,SmartContracts,JavaScript,Solidity, React.js,Node.js,Ethereum,NFT`,
+            details :`Skills:DeFi,NFTMarketplace,web3,DApps,Hardhat,SmartContracts,JavaScript, Solidity,React.js,Node.js,Ethereum,NFT`,
             date : 'Mar 1, 2022',
             field : 'Blockchain',
             image : certificate
@@ -16,7 +16,7 @@ export const achievementData = {
         {
             id : 2,
             title : 'Ethereum Blockchain Developer Bootcamp With Solidity',
-            details : `Skills: Decentralized finance,NFT Marketplace, web3.js, Decentralized Applications (DApps), Cryptocurrency, Hardhat, Web3, truffle,Smart Contracts, JavaScript, Solidity, React.js, Node.js, Decentralized finance, Ethereum, Non-Fungible Tokens (NFTs)`,
+            details :`Skills:Decentralizedfinance,NFTMarketplace,web3.js,DecentralizedApplications(DApps),Cryptocurrency, Hardhat,Web3,truffle,SmartContracts,JavaScript,Solidity,React.js,Node.js,Decentralizedfinance,Ethereum,Non-FungibleTokens(NFTs)`,
             date : 'Aug 4, 2022',
             field : 'Blockchain',
             image : udemy 

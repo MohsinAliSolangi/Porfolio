@@ -1,5 +1,5 @@
 export const socialsData = {
-    github: 'https://github.com/MohsinAliS',
+    github: 'https://github.com/MohsinAliSolangi',
     facebook: 'https://www.facebook.com/mohsinali.solangi.37',
     linkedIn: 'https://www.linkedin.com/in/mohsinalisolangi/',
     instagram: 'https://www.instagram.com/mohsin_ali_solangi7',

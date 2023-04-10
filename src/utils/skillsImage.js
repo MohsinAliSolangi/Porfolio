@@ -58,7 +58,6 @@ import strapi from '../assets/svg/skills/strapi.svg'
 import tensorflow from '../assets/svg/skills/tensorflow.svg'
 import webix from '../assets/svg/skills/webix.svg'
 import wordpress from '../assets/svg/skills/wordpress.svg'
-
 import azure from '../assets/svg/skills/azure.svg'
 import blender from '../assets/svg/skills/blender.svg'
 import fastify from '../assets/svg/skills/fastify.svg'
@@ -72,13 +71,67 @@ import picsart from '../assets/svg/skills/picsart.svg'
 import sketch from '../assets/svg/skills/sketch.svg'
 import unity from '../assets/svg/skills/unity.svg'
 import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
-
 import canva from '../assets/svg/skills/canva.svg'
+import nodeJS from '../assets/png/nodej-js.png'
+import solidity from '../assets/png/sol-logo.png'
+import web3js from '../assets/png/web3js.png'
+import ubuntu from '../assets/png/ubuntu.png'
+import hardhat from "../assets/png/hardhat-logo.png"
+import etherjs from '../assets/png/ethers-logo.png'
+import truffle from '../assets/png/truffle-logo.png';
+import remixide from '../assets/png/remix.png'
+import pinata from '../assets/png/pinata.png'
+import waffle from '../assets/png/waffle.png'
+import moralis from '../assets/png/moralis-logo.png'
+import Ganache from '../assets/png/ganache-logo.png'
+import npm from '../assets/png/npm-logo.png'
+import Javascript from '../assets/png/js-logo.png'
+import nextjs from '../assets/png/nextjs-logo.png'
+import yarn from '../assets/png/yarn-logo.png'
+import chainlink from '../assets/png/chainlink-logo.png'
+import ipfs from '../assets/png/ipfs-logo.png'
+
 
 
 export const skillsImage = (skill) => {
     const skillID = skill.toLowerCase();
     switch (skillID) {
+        case 'ipfs':
+            return ipfs;
+        case 'chainlink':
+            return chainlink;
+        case 'yarn':
+            return yarn;
+        case 'nextjs':
+            return nextjs;
+        case 'javascript':
+            return Javascript;
+        case 'npm':
+            return npm;
+        case 'ganache':
+            return Ganache;
+        case 'moralis':
+            return moralis;
+        case 'waffle':
+            return waffle;
+        case 'pinata':
+            return pinata;
+        case 'remixide':
+            return remixide;
+        case 'truffle':
+            return truffle;
+        case 'ether js':
+            return etherjs;
+        case 'hardhat':
+            return hardhat;
+        case 'ubuntu':
+            return ubuntu;
+        case 'web3 js':
+            return web3js;
+        case 'solidity':
+            return solidity;
+        case 'node js':
+            return nodeJS;
         case 'gcp':
             return gcp;
         case 'html':
