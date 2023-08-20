@@ -79,7 +79,7 @@ export const projectsData = [
         tags: ['React','CSS','JavaScript','Node JS','Solidity','Hardhat','IPFS','Pinata','Ether JS'],
         code: 'https://github.com/MohsinAliSolangi/BurnTokenLiveOnENS',
         demo: 'https://wild-night-3895.on.fleek.co/',
-        image: eight
+        image: two
     },
     {
         id: 9,
@@ -89,6 +89,24 @@ export const projectsData = [
         code: 'https://github.com/MohsinAliSolangi',
         demo: 'https://odd-pond-7851.on.fleek.co/',
         image: seven
+    },
+    {
+        id: 10,
+        projectName: 'NFT key Staked',
+        projectDesc: 'This is a non-fungible token (NFT) Staked platform that offers users Reward on basis of all investment.',
+        tags: ['React','CSS','JavaScript','Node JS','Solidity','Hardhat','IPFS','Pinata','Ether JS'],
+        code: 'https://github.com/MohsinAliSolangi',
+        demo: 'https://nftkey.btcproxy.io/',
+        image: one
+    },
+    {
+        id: 11,
+        projectName: '(JogoMedia) AIM ICO Token ',
+        projectDesc: 'This is a fungible token (ERC20) ICO platform that offers users Buy the preSale of the Token .',
+        tags: ['React','CSS','JavaScript','Node JS','Solidity','Hardhat','IPFS','Pinata','Ether JS'],
+        code: 'https://github.com/MohsinAliSolangi',
+        demo: 'http://www.aimeme.io/',
+        image: four
     },
 ]
 
