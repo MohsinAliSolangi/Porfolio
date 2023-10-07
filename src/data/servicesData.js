@@ -58,21 +58,31 @@ export const servicesData = [
         title: 'Decentralized Exchange', 
         icon: <BsClipboardData />
     },
-    // {
-    //     id: 11,
-    //     title: 'Ebook Writing',
-    //     icon: <FaTabletAlt />
-    // },
+    {
+        id: 11,
+        title: 'ICO  PreSale of Tokens',
+        icon: <FaTabletAlt />
+    },
     // {
     //     id: 12,
     //     title: 'Audio Transcription',
     //     icon: <AiFillAudio />
     // },
-    // {
-    //     id: 13,
-    //     title: 'Blog Posting',
-    //     icon: <FaRegNewspaper />
-    // },
+    {
+        id: 13,
+        title: 'Blockahin Development',
+        icon: <FaRegNewspaper />
+    },
+     {
+        id: 9,
+        title: 'ReactJS',
+        icon: <BsCodeSlash />
+    },
+    {
+        id: 10,
+        title: 'Wallet Integration', 
+        icon: <BsClipboardData />
+    },
 
 ]
 

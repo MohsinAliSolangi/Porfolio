@@ -1,5 +1,5 @@
 import resume from '../assets/pdf/resume.pdf'
-import Image from "../assets/png/image.PNG";
+import Image from "../assets/png/image.png";
 export const headerData = {
     name: 'Mohsin Ali Solangi',
     title: "Blockchain Developer :",

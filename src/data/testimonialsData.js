@@ -14,42 +14,42 @@ export const testimonialsData = [
         name: 'Umer Ameer',
         title: 'IEC Partner',
         text: "Mohsin is Inteligent & hardworking boy he's always first in every & that is the thing we like Mohsin, Stay blased",
-        image: boy2
-    },
-    {
-        id: 2,
-        name: 'Monica Geller',
-        title: 'Head Chef',
-        text: "This is the only thing that I didn't have to spend time to sort out. It's tidy all by itself.",
-        image: girl2
-    },
-    {
-        id: 3,
-        name: 'Phoebe Buffay',
-        title: 'Massuese',
-        text: "Heard of the song 'Smelly Cat!!' ? This website made it viral. Plus portfolio is the only thing that Ursula doesn't have :)",
-        image: girl1
-    },
-    {
-        id: 4,
-        name: 'Joey Tribbiani',
-        title: 'Actor',
-        text: "Making my portfolio with this helped me get my role as 'Dr. Drake Ramoray' in 'Days Of Our Lives'. You guys are the best !",
         image: boy1
     },
     {
-        id: 5,
-        name: 'Rachel Green',
-        title: 'Sales Executive',
-        text: 'Ralph Lauren was one of the best things that ever happened to me. My portfolio made that dream happen. I owe you guys.',
-        image: girl3
+        id: 2,
+        name: 'Luis Alfredo N.',
+        title: 'Artist (NFT Collection)',
+        text: "Mohsin outdid himself on this project. He was very polite, made sure to understand the project requirements and wrote a very clean and effective code that worked right out of the box. Absolutely recommended to everyone A++++",
+        image: boy2
     },
     {
-        id: 6,
-        name: 'Ross Geller',
-        title: 'Paleontologist',
-        text: "Be it 'Rocks' or 'Bones', you need a website to display it. This is it. Great work guys !",
+        id: 3,
+        name: 'patrickgehlert',
+        title: 'Crypto Investor',
+        text: "Very patient developer love the work he did and the effort he puts into it will hire him again for sure!",
         image: boy3
-    }
+    },
+    {
+        id: 4,
+        name: 'bballguru',
+        title: 'ICO (Token Owner) HHCW',
+        text: "Excellent job! moshin took the time to fix all problems and made sure job was done perfectly!",
+        image: boy1
+    },
+    // {
+    //     id: 5,
+    //     name: 'Rachel Green',
+    //     title: 'Sales Executive',
+    //     text: 'Ralph Lauren was one of the best things that ever happened to me. My portfolio made that dream happen. I owe you guys.',
+    //     image: girl3
+    // },
+    // {
+    //     id: 6,
+    //     name: 'Ross Geller',
+    //     title: 'Paleontologist',
+    //     text: "Be it 'Rocks' or 'Bones', you need a website to display it. This is it. Great work guys !",
+    //     image: boy3
+    // }
 ]
 

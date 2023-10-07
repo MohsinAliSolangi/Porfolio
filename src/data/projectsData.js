@@ -105,7 +105,7 @@ export const projectsData = [
         projectDesc: 'This is a fungible token (ERC20) ICO platform that offers users Buy the preSale of the Token .',
         tags: ['React','CSS','JavaScript','Node JS','Solidity','Hardhat','IPFS','Pinata','Ether JS'],
         code: 'https://github.com/MohsinAliSolangi',
-        demo: 'http://www.aimeme.io/',
+        demo: 'https://aimeme.ai',
         image: four
     },
 ]
